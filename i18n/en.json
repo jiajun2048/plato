@@ -1,0 +1,35 @@
+{
+  "message": {
+    "plato": "{0}, The beginning is the most important part of the work.",
+    "required": "Please input {0}",
+    "minlength": "{0} must no less then {1} chars",
+    "maxlength": "{0} must no more then {1} chars",
+    "pattern": "{0} is NOT valid"
+  },
+  "routes": {
+    "demos": "Demos",
+    "create": "Create",
+    "about": "About",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "views": {
+    "home": {
+      "language": "Language",
+      "delete": "Delete",
+      "confirm": "Delete?"
+    },
+    "create": {
+      "title": "Title",
+      "content": "Content",
+      "submit": "Submit",
+      "confirm": "Submit?"
+    },
+    "login": {
+      "username": "Username",
+      "password": "Password",
+      "submit": "Submit",
+      "confirm": "Submit?"
+    }
+  }
+}
